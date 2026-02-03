@@ -22,7 +22,7 @@ Why did sales performance decline during certain periods, and is the issue drive
 - Prioritized the Electronics category due to high revenue but relatively lower margin, indicating pricing or cost optimization opportunities.
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+dashboard.png
 
 
 
