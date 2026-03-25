@@ -33,7 +33,7 @@ Separate demand and margin tracking in monthly management reports — treating t
 
 
 Dashboard Preview
-dashboard.png
+[![Sales Performance Dashboard](dashboard.png)](dashboard.png)
 
 Files
 ├── global_sales.xlsx        # Raw dataset and dashboard
